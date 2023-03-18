@@ -1,5 +1,5 @@
 # counter-app
-counter-app-nine-bice.vercel.app
+https://counter-app-nine-bice.vercel.app/
 
 ## Project setup
 ```
