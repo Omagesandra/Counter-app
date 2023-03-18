@@ -37,7 +37,7 @@ export default {
   position: fixed;
   top: 50%;
   transform: translate(-50%, -50%);
-  height: 300px;
+  height: 33 c0px;
   width: 300px;
 }
 .parag {
